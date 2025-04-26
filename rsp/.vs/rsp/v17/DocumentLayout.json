@@ -5,6 +5,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\rsp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:rsp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:Graph.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Polytope.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:Polytope.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\RobustSolver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:RobustSolver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\RobustSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:RobustSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\LPSolver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:LPSolver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\LPSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:LPSolver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Polytope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:Polytope.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3AF4BFE4-BB2F-42AE-A70F-82910338EC70}|rsp.vcxproj|solutionrelative:Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +46,112 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Graph.cpp",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Graph.cpp",
+              "RelativeDocumentMoniker": "Graph.cpp",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Graph.cpp",
+              "RelativeToolTip": "Graph.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T13:17:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Polytope.cpp",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Polytope.cpp",
+              "RelativeDocumentMoniker": "Polytope.cpp",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Polytope.cpp",
+              "RelativeToolTip": "Polytope.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T13:17:20.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LPSolver.cpp",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\LPSolver.cpp",
+              "RelativeDocumentMoniker": "LPSolver.cpp",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\LPSolver.cpp",
+              "RelativeToolTip": "LPSolver.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T13:16:40.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LPSolver.h",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\LPSolver.h",
+              "RelativeDocumentMoniker": "LPSolver.h",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\LPSolver.h",
+              "RelativeToolTip": "LPSolver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T13:16:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobustSolver.cpp",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\RobustSolver.cpp",
+              "RelativeDocumentMoniker": "RobustSolver.cpp",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\RobustSolver.cpp",
+              "RelativeToolTip": "RobustSolver.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-26T13:15:07.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RobustSolver.h",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\RobustSolver.h",
+              "RelativeDocumentMoniker": "RobustSolver.h",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\RobustSolver.h",
+              "RelativeToolTip": "RobustSolver.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T13:14:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polytope.h",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Polytope.h",
+              "RelativeDocumentMoniker": "Polytope.h",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Polytope.h",
+              "RelativeToolTip": "Polytope.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T13:13:54.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Graph.h",
+              "DocumentMoniker": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Graph.h",
+              "RelativeDocumentMoniker": "Graph.h",
+              "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\Graph.h",
+              "RelativeToolTip": "Graph.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T13:13:29.627Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +160,7 @@
               "RelativeDocumentMoniker": "rsp.cpp",
               "ToolTip": "C:\\Users\\grs4v\\Documents\\Code\\robust-short-path\\rsp\\rsp.cpp",
               "RelativeToolTip": "rsp.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-23T17:32:14.611Z",
               "EditorCaption": ""
