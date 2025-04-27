@@ -18,7 +18,7 @@
     <ClCompile Include="rsp.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RobustSolver.cpp">
+    <ClCompile Include="RobustSolverABSa.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="LPSolver.cpp">
@@ -38,7 +38,7 @@
     <ClInclude Include="Polytope.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="RobustSolver.h">
+    <ClInclude Include="RobustSolverABSa.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="LPSolver.h">

@@ -1,16 +1,14 @@
 #pragma once
-
 #include <vector>
-#include <tuple>
 
 class Graph {
 public:
-    Graph(int numNodes);
+    Graph(int n);
     void addEdge(int u, int v, double cost);
+    const std::vector<std::vector<std::pair<int, double>>>& getAdjacencyList() const;
     int getNumNodes() const;
-    const std::vector<std::tuple<int, int, double>>& getEdges() const;
 
 private:
     int numNodes;
-    std::vector<std::tuple<int, int, double>> edges; // (u, v, cost)
+    std::vector<std::vector<std::pair<int, double>>> adjList;
 };

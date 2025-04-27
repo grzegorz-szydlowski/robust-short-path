@@ -1,18 +1,13 @@
 #pragma once
-
 #include <vector>
-//M×c<=b - wzor ograniczenia (M - wspolczynnik, c - koszt polaczenia miedzy wezlami grafu, b - zadana maksymalna wartosc ograniczenia)
-//Polytope - obszar spelniajacy nierownosci ograniczen
+
 class Polytope {
 public:
     Polytope();
-
-    void addConstraint(const std::vector<double>& coefficients, double rhs);
-
-    const std::vector<std::vector<double>>& getConstraints() const;
-    const std::vector<double>& getConstraintValue() const;
+    std::vector<double> solveAuxProblem(const std::vector<int>& y);
+    double evaluate(const std::vector<double>& c, const std::vector<int>& y);
 
 private:
-    std::vector<std::vector<double>> M; // Wspolczynniki
-    std::vector<double> constraints;              // Wartosci b 
+    std::vector<std::vector<double>> extremePoints;
+    int counter;
 };

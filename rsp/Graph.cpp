@@ -1,15 +1,15 @@
 #include "Graph.h"
 
-Graph::Graph(int numNodes) : numNodes(numNodes) {}
+Graph::Graph(int n) : numNodes(n), adjList(n) {}
 
 void Graph::addEdge(int u, int v, double cost) {
-    edges.emplace_back(u, v, cost);
+    adjList[u].emplace_back(v, cost);
+}
+
+const std::vector<std::vector<std::pair<int, double>>>& Graph::getAdjacencyList() const {
+    return adjList;
 }
 
 int Graph::getNumNodes() const {
     return numNodes;
-}
-
-const std::vector<std::tuple<int, int, double>>& Graph::getEdges() const {
-    return edges;
 }

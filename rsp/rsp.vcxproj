@@ -131,13 +131,13 @@
     <ClCompile Include="LPSolver.cpp" />
     <ClCompile Include="Polytope.cpp" />
     <ClCompile Include="rsp.cpp" />
-    <ClCompile Include="RobustSolver.cpp" />
+    <ClCompile Include="RobustSolverABSa.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Graph.h" />
     <ClInclude Include="LPSolver.h" />
     <ClInclude Include="Polytope.h" />
-    <ClInclude Include="RobustSolver.h" />
+    <ClInclude Include="RobustSolverABSa.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

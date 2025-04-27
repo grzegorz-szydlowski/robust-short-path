@@ -1,13 +1,17 @@
 #pragma once
-
 #include <vector>
+#include "Graph.h"
 
 class LPSolver {
 public:
-    LPSolver();
-
-    double solveMaximization(const std::vector<std::vector<double>>& M, const std::vector<double>& b, const std::vector<double>& objective);
+    LPSolver(Graph* graph, const std::vector<std::vector<double>>& PF);
+    void solve();
+    double getObjectiveValue() const;
+    std::vector<int> getBinarySolution() const;
 
 private:
-    //Todo: zaimplementowac biblioteke solverowa jak np GLPK
+    Graph* graph;
+    const std::vector<std::vector<double>>& PF;
+    double objectiveValue;
+    std::vector<int> binarySolution;
 };
